@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  background-color: rgb(9, 10, 10);
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  color: black;
+  padding: 18px;
+  width: 300px;
+  font-size: large;
+  border-radius: 100px;
+}
+
+form {
+  justify-content: center;
+  margin-top: 200px;
+  align-items: center;
+}
+
+h1 {
+  margin-left: 65px;
+  align-items: center;
+  color: white;
+}
